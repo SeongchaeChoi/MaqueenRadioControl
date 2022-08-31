@@ -1,5 +1,5 @@
 {
-    "name": "RC Maqueen",
+    "name": "MaqueenRadioControl",
     "description": "",
     "dependencies": {
         "core": "*",
